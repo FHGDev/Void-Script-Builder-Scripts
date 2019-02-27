@@ -1,3 +1,5 @@
+print("Click-to-Kill.lua by FreakingHulk is loaded!")
+
 name = "FreakingHulk" -- Your name
 clicker = Instance.new("ClickDetector")
 clicker.Name = "TROLLED :)"
